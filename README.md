@@ -4,6 +4,8 @@ RIT Spring 2021
 
 Course: Web and Mobile Computing II
 
+See ProjectDemo > view raw for video demo of project
+
 # Project Description
 
 - Worked as a team on a multi-page website to serve as a tutorial guide for CSS
